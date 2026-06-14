@@ -32,6 +32,6 @@ This project is subject to the MIT license.
 (이 프로젝트는 MIT 라이선스를 따릅니다.)
 
 ## Issues (이슈 제보)
-Please let me know via the [Issues] (https://github.com/dohyeon42/file-date-renamer/issues) tab for bugs or improvements!
+Please let me know via the [Issues](https://github.com/dohyeon42/file-date-renamer/issues) tab for bugs or improvements!
 
-(버그나 개선 사항은 [Issues](https://github.com/dohyeon42/file-date-renamer/issues) 탭을 통해 알려주세요!)
+(버그나 개선 사항은 [이슈](https://github.com/dohyeon42/file-date-renamer/issues) 탭을 통해 알려주세요!)
